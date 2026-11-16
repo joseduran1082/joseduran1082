@@ -67,6 +67,7 @@
 - **[Proyectos principales](https://github.com/joseduran1082/Proyectos-)** — Colección de mis desarrollos web en **HTML, CSS y JS**.
 - **Solmedic Workflows** — Automatización e integración de IA usando **n8n** y **Qdrant**.
 - **Web Gaming Force** — Aplicación web interactiva disponible en mi [portafolio](https://portafoliojsduran-909386-f7789.web.app/).
+- **App Web Nothingan Pri.SA** — App Para una empresa de Alquiler de vehiculos [portafolio](https://github.com/joseduran1082/Nothingan.Pri.Sa).
 
 ---
 
