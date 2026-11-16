@@ -1,4 +1,4 @@
-![JSDURAN Banner](./banner.jpg)
+![JSDURAN Banner](https://github.com/joseduran1082/joseduran1082/blob/main/banner.png)
 
 <h1 align="left">¡Hola! Soy José Sebastián Durán Mendoza 👋</h1>
 <h3 align="left">Desarrollador Fullstack | Estudiante de DAM & DAW</h3>
@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
-<img alt="José Sebastián Durán" src="./perfil1.png" width="160" align="right" style="border-radius: 50%;"/>
+<img alt="José Sebastián Durán" src="https://avatars.githubusercontent.com/u/237837823?s=400&v=4" width="160" align="right" style="border-radius: 50%;"/>
 
 🎓 &nbsp;Estudiante del doble grado en **Desarrollo de Aplicaciones Multiplataforma (DAM) y Web (DAW)** en el Institut Nicolau Copèrnic (Terrassa).\
 👨‍💻 &nbsp;Apasionado por crear soluciones de software completas, automatizaciones inteligentes y aplicaciones web.\
