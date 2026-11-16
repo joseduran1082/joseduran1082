@@ -30,16 +30,14 @@ Actualmente desarrollo flujos automatizados con **n8n** y bases de datos vectori
 ## Encuéntrame en:
 
 [![Portafolio](https://img.shields.io/badge/Web-Mi_Portafolio-14a1f0?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://portafoliojsduran-909386-f7789.web.app/)
-[![TikTok](https://img.shields.io/badge/TikTok-@AuraContent-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@AuraContent)
-[![TikTok](https://img.shields.io/badge/TikTok-@ComiquitaChevere-FF0050?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@ComiquitaChevere)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Sebastián_Durán-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Sebastián_Durán-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jos%C3%A9-sebastian-duran-mendoza-32b3a4307/)
 
 ---
 
 ## 🚀 Proyectos Destacados
 
 * **[Proyectos y cosas de aprendizaje](https://github.com/joseduran1082/Proyectos-y-cosas-de-aprendizaje)** — Prácticas, ejercicios y desarrollo en **Java**.
-* **[Proyectos principales](https://github.com/joseduran1082/Proyectos)** — Colección de mis desarrollos web en **HTML, CSS y JS**[cite: 1].
+* **[Proyectos principales](https://github.com/joseduran1082/Proyectos-)** — Colección de mis desarrollos web en **HTML, CSS y JS**[cite: 1].
 * **Solmedic Workflows** — Automatización e integración de IA usando **n8n** y **Qdrant**.
 * **Web Gaming Force** — Aplicación web interactiva disponible en mi [portafolio](https://portafoliojsduran-909386-f7789.web.app/).
 
